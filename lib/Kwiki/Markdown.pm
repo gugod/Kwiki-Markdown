@@ -40,9 +40,11 @@ hooking on Kwiki::Formatter::* sub-classes.
 
 L<Text::Markdown>
 
-=head1 COPYRIGHT
+=head1 AUTHOR
 
 Copyright 2006 by Kang-min Liu <gugod@gugod.org>.
+
+=head1 LICENCE
 
 This program is free software; you can redistribute it and/or modify
 it under the same terms as Perl itself.
