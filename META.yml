@@ -1,7 +1,7 @@
 ---
 abstract: 'A Markdown formatter for Kwiki.'
 author:
-  - 'Copyright 2006 by Kang-min Liu <gugod@gugod.org>.'
+  - 'Kang-min Liu <gugod@gugod.org>.'
 build_requires:
   Test::Base: '0'
 configure_requires:
@@ -16,10 +16,10 @@ name: Kwiki-Markdown
 provides:
   Kwiki::Markdown:
     file: lib/Kwiki/Markdown.pm
-    version: '0.01'
+    version: '0.02'
 requires:
   Kwiki: '0'
   Text::Markdown: '0'
-version: '0.01'
+version: '0.02'
 x_serialization_backend: 'CPAN::Meta::YAML version 0.018'
 x_spdx_expression: 'Artistic-1.0-Perl OR GPL-1.0-or-later'

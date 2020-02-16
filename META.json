@@ -1,7 +1,7 @@
 {
    "abstract" : "A Markdown formatter for Kwiki.",
    "author" : [
-      "Copyright 2006 by Kang-min Liu <gugod@gugod.org>."
+      "Kang-min Liu <gugod@gugod.org>."
    ],
    "dynamic_config" : 0,
    "generated_by" : "App::ModuleBuildTiny version 0.027",
@@ -39,11 +39,11 @@
    "provides" : {
       "Kwiki::Markdown" : {
          "file" : "lib/Kwiki/Markdown.pm",
-         "version" : "0.01"
+         "version" : "0.02"
       }
    },
    "release_status" : "stable",
-   "version" : "0.01",
+   "version" : "0.02",
    "x_serialization_backend" : "JSON::PP version 2.97001",
    "x_spdx_expression" : "Artistic-1.0-Perl OR GPL-1.0-or-later"
 }
